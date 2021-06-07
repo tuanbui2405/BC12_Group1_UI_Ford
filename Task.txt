@@ -1,10 +1,13 @@
 Phân chia bố cục: 
-1. Header
-2. Section 1: Avatar
-3. Section 2: Sometime
-4. Section 3: Let_us
-5. Section 4: 186 people
-6. Section 5: Airbag + Cali
-7: Footer
+1. Header:
+2. Section 1: Avatar:
+3. Section 2: Sometime: 
+4. Section 3: Let_us: 
+5. Section 4: 186 people:
+6. Section 5: Airbag + Cali: 
+7: Footer: 
 
 Phân chia công việc:
+1. Header + Section 1: Long
+2. Section 2 + 3 + Footer: Tuấn
+3. Section 4 + 5: Tú

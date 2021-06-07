@@ -1,0 +1,74 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+html,body{
+    font-family: 'fordngbs-antenna-light',arial,helvetica,sans-serif;
+    font-size: 18px;
+}
+.ac__button{
+    text-align: center;
+    padding: 30px 20px;
+    
+}
+.ac__button button{
+    background-color: white;
+    font-size: 20px;
+    border: none;
+    color: #092a46;
+}
+.alert-banner{
+    text-align: center;
+    padding: 20px;
+    line-height: 2;
+
+}
+
+.navbar{
+    background-color: #333333;
+    padding: 35px;
+}
+.search-input{
+    border: none;
+    background-color: #333333;
+    color: white;
+}
+.fa-search{
+    color: white;
+}
+.footer{
+    /* background-color: white; */
+    padding: 100px 30px;
+    /* color: #3b3735; */
+   
+}
+
+.footer__list{
+    background-color: #242424;
+    float: left;
+    width: 100%;
+    padding: 50px 50px;
+    line-height: 1.4;
+
+}
+.footer__navigation{
+    float: left;
+    width: 20%;
+}
+.footer__navigation li{
+    list-style: none;
+    margin-bottom: 12px;
+    font-size: 13px;
+    
+    
+}
+.footer__navigation a{
+    text-decoration: none;
+    color: #a7a7a7;
+
+}
+.footer__navigation h3{
+    color: white;
+    font-size: 16px;
+}
